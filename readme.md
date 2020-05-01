@@ -1,0 +1,1 @@
+This project shows basi CRUD operation using hibernare and Spring
